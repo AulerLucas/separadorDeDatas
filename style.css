@@ -1,0 +1,32 @@
+body {
+    background: #2193b0;
+    background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0);
+    background: linear-gradient(to right, #6dd5ed, #2193b0);
+
+}
+
+#til {
+    color: white;
+    margin-left: 535px;
+    margin-top: 150px;
+    font: normal bold 15px/1 "Open Sans", sans-serif;
+}
+
+#d {
+    color: white;
+    margin-left: 450px;
+    margin-top: 20px;
+    font: normal bold 15px/1 "Open Sans", sans-serif;
+}
+
+#res {
+    margin-left: 520px;
+    color: white;
+    border-radius: 1000px;
+    padding: 20px 45px;
+    margin-top: 200px;
+    color: #000000;
+    display: inline-block;
+    font: normal bold 15px/1 "Open Sans", sans-serif;
+    text-align: center;
+}
